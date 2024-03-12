@@ -1,0 +1,9 @@
+server:
+  port: 31001
+spring:
+  application:
+    name: yh-service-manage-cms
+  data:
+    mongodb:
+      database: yh_cms
+      uri: mongodb://root:root@localhost:27017

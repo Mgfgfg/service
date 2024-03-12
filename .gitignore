@@ -1,0 +1,4 @@
+# 项目排除路径
+/framework-model/target/
+/out/
+/service-api/target/
